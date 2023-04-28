@@ -1,1 +1,8 @@
-This is anbumani
+<<<<<<< HEAD
+This is anbumani sssssssss
+=======
+my newfile nithing collection
+
+
+you are totally wrong this is checking
+>>>>>>> aa6047f04b8329f51244615c07e4ccfde9472ff2
